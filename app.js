@@ -17,8 +17,12 @@ const search_business_by_id = async yelp_id => {
   }
 };
 
-// Using Woodlands Coffee as Example
+// Using Woodlands Coffee as an Active Business Example
 search_business_by_id("6AFJ3a2-iCaRd04R8fXuCw").then(business => {
-  console.log(`Name: ${business.name}`);
-  console.log(`Closed: ${business.is_closed}`);
+  console.log(`Name: ${business.name}  Closed: ${business.is_closed}`);
+});
+
+// Using Neptune Coffee as a Closed Business Example
+search_business_by_id("_hOl9ZqJeT6CvkDN9NaQKw").then(business => {
+  console.log(`Name: ${business.name}  Closed: ${business.is_closed}`);
 });

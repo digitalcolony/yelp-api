@@ -1,0 +1,50 @@
+{
+  "id": "6AFJ3a2-iCaRd04R8fXuCw",
+  "alias": "woodland-coffee-seattle",
+  "name": "Woodland Coffee",
+  "image_url":
+    "https://s3-media2.fl.yelpcdn.com/bphoto/fDd_GP0_SpUM_m95lntb5w/o.jpg",
+  "is_claimed": true,
+  "is_closed": false,
+  "url":
+    "https://www.yelp.com/biz/woodland-coffee-seattle?adjust_creative=Ws6wP1EcJ9u4dlaKnJFW4Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=Ws6wP1EcJ9u4dlaKnJFW4Q",
+  "phone": "",
+  "display_phone": "",
+  "review_count": 50,
+  "categories": [{ "alias": "coffee", "title": "Coffee & Tea" }],
+  "rating": 4.5,
+  "location": {
+    "address1": "1417 NW 54th St",
+    "address2": null,
+    "address3": "",
+    "city": "Seattle",
+    "zip_code": "98107",
+    "country": "US",
+    "state": "WA",
+    "display_address": ["1417 NW 54th St", "Seattle, WA 98107"],
+    "cross_streets": "N 15th Ave & N 14th Ave"
+  },
+  "coordinates": { "latitude": 47.66766, "longitude": -122.3745 },
+  "photos": [
+    "https://s3-media2.fl.yelpcdn.com/bphoto/fDd_GP0_SpUM_m95lntb5w/o.jpg",
+    "https://s3-media1.fl.yelpcdn.com/bphoto/DE2WwX6F93EjRQSV1JoZ2g/o.jpg",
+    "https://s3-media2.fl.yelpcdn.com/bphoto/Rwd9WSfCBfkE75owUQKdJw/o.jpg"
+  ],
+  "price": "$",
+  "hours": [
+    {
+      "open": [
+        { "is_overnight": false, "start": "0600", "end": "1800", "day": 0 },
+        { "is_overnight": false, "start": "0600", "end": "1800", "day": 1 },
+        { "is_overnight": false, "start": "0600", "end": "1800", "day": 2 },
+        { "is_overnight": false, "start": "0600", "end": "1800", "day": 3 },
+        { "is_overnight": false, "start": "0600", "end": "1800", "day": 4 },
+        { "is_overnight": false, "start": "0700", "end": "1800", "day": 5 },
+        { "is_overnight": false, "start": "0700", "end": "1800", "day": 6 }
+      ],
+      "hours_type": "REGULAR",
+      "is_open_now": true
+    }
+  ],
+  "transactions": []
+}

@@ -1,0 +1,22 @@
+{
+  "businesses": [
+    {
+      "id": "mGIEhnIB2gE2r6a_nUTEuA",
+      "alias": "caffe-vita-capitol-hill-seattle",
+      "name": "Caffe Vita Capitol Hill",
+      "coordinates": { "latitude": 47.613861, "longitude": -122.319043 },
+      "location": {
+        "address1": "1005 E Pike St",
+        "address2": "",
+        "address3": "",
+        "city": "Seattle",
+        "zip_code": "98122",
+        "country": "US",
+        "state": "WA",
+        "display_address": ["1005 E Pike St", "Seattle, WA 98122"]
+      },
+      "phone": "+12067094440",
+      "display_phone": "(206) 709-4440"
+    }
+  ]
+}
